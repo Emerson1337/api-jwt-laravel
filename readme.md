@@ -14,7 +14,9 @@ De forma resumida, a rota de login te retorna um token jwt e voce precisa dele p
 
 Na model de user, que será o fato de autenticação, coloque essas informações:
 ![image](https://user-images.githubusercontent.com/58860863/132764427-748a52fe-ff86-4dc8-945a-dfe817163430.png)
+
 E também esse outros dois métodos
+
 ![image](https://user-images.githubusercontent.com/58860863/132764443-a4235dcc-176c-4d82-a41b-e9df2c332653.png)
 
 A sua rota de API ficará assim:
